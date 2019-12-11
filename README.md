@@ -4,7 +4,7 @@ A custom theme for the CodyHouse Framework.
 Typeface: [Inter](https://rsms.me/inter/)
 
 Colors:
-![A1 color palette](https://raw.githubusercontent.com/CodyHouse/a1-codyframe-theme/master/a1-color-palette.svg "A1 color palette")
+![A1 color palette](https://raw.githubusercontent.com/CodyHouse/a1-codyframe-theme/master/a1-color-palette.png "A1 color palette")
 
 ## How to
 Replace the **📁 custom-style** folder of the framework with the one in this repo.
